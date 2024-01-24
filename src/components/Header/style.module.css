@@ -1,0 +1,15 @@
+.header {
+    display:flex;
+    width:100%;
+    padding:10px;
+    height:auto;
+    background:#e8e8e8;
+    border-radius:10px;
+    justify-content: space-between;
+}
+
+.navItem {
+    display:flex;
+    flex-wrap:wrap;
+    gap:20px;
+}
